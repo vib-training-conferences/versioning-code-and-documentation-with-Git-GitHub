@@ -122,11 +122,9 @@ A) Enamble **WSL** in your computer asmost of the course will use command line, 
 
 B) You also need to download and install [GitBash](https://git-scm.com/downloads), to use git in your computer.
 
-> **IMPORTANTE:**
-> Some people have reported incompatibility with **CITRIX WORKPLACE**, test before coming to the course if your gitbash is working
-> 
+C) TO BE DNE IN CLASS (with the teacher) 
 
-C) Generate a SSH key to stay safe in the command line
+c.1) Generate a SSH key to stay safe in the command line
 
 - Copy past the command bellow in your terminal, replacing with your email
 ---
@@ -143,13 +141,13 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
 
 > IMPOTANTE:
-> When you are requeste to name the file, just press `ENTER` without changing anything.
-> When you are requested a password, **create A STRONG one**. This is controling access between your computer and external source (GitHUb).
+> When you are requeste to name the file, you have two optiions. (1) just press `ENTER` without changing anything. (2) Use the entire path so the file is in the correct place.
+> When you are requested a password, **create A STRONG one**, but something you can still remember. This is controling access between your computer and external source (GitHUb).
 >
 > For more info see this [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
 
 
-D) Add the public SSH key to GitHub
+c.2) Add the public SSH key to GitHub
 
 Using this [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) **add** the SSH key to GitHub. Be carreful to only share your **PUBLIC key** (**id_ed25529.pub** or **id_rsa.pub**).
 
