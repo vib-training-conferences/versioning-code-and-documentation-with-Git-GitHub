@@ -15,9 +15,9 @@ contact:
   affiliation: VIB
   orcid: 0000-0001-6691-4233
 title: "Versioning code and documentation with Git & GitHub"
-version: v1.0.0
+version: v2026.01
 doi: ~
-date-released: 2025-10-25
+date-released: 2026-04-29
 keywords:
 - Code versioning
 - Git
@@ -30,4 +30,4 @@ abstract: "This course is designed for researchers and support staff who are new
 identifiers:
 - type: url
   value: https://github.com/vib-tcp/introduction-github/
-  version: v2025.10
+  version: v2026.10
