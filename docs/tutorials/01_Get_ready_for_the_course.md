@@ -122,36 +122,10 @@ A) Enamble **WSL** in your computer asmost of the course will use command line, 
 
 B) You also need to download and install [GitBash](https://git-scm.com/downloads), to use git in your computer.
 
-C) TO BE DNE IN CLASS (with the teacher) 
+> **MACbook OS & Linux**
+> Git is native on most MAC & Linux systems. Try it on your terminal, otherwise install Git, see how [here](https://github.com/git-guides/install-git).
 
-c.1) Generate a SSH key to stay safe in the command line
-
-- Copy past the command bellow in your terminal, replacing with your email
----
-
-```
-ssh-keygen -t ed25519 -C "your_email@example.com"
-```
-
-- Alternativelly, if this doesn't work. You can try this (replace your email):
----
-
-```
-ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
-```
-
-> IMPOTANTE:
-> When you are requeste to name the file, you have two optiions. (1) just press `ENTER` without changing anything. (2) Use the entire path so the file is in the correct place.
-> When you are requested a password, **create A STRONG one**, but something you can still remember. This is controling access between your computer and external source (GitHUb).
->
-> For more info see this [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
-
-
-c.2) Add the public SSH key to GitHub
-
-Using this [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) **add** the SSH key to GitHub. Be carreful to only share your **PUBLIC key** (**id_ed25529.pub** or **id_rsa.pub**).
-
-E) Editor
+C) Editor
 
 While using Git we advise using MarkDown (MD) or plain text. 
 
@@ -159,48 +133,11 @@ While using Git we advise using MarkDown (MD) or plain text.
 
 Possible editors
 
-- If you never used MD before we suggest you to get [MarkText](https://github.com/marktext/marktext#download-and-installation) 
+- Preferable option is [VScode](https://code.visualstudio.com/Download), to have the text editor and terminal integrated. Same as the trainer
+- If you never used MD before we suggest you to get [MarkText](https://github.com/marktext/marktext#download-and-installation)
+- Other option: Nano, Emacs, etc
 
-- Another option is [VScode](https://code.visualstudio.com/Download), to have the text editor and terminal integrated.
-
-
-#### MACbook OS & Linux
-Git is native on most MAC & Linux systems. Try it on your terminal, otherwise install Git, see how [here](https://github.com/git-guides/install-git).
-
-Next, in  your terminal, you will need to generate an SSH key:
-
-Copy past this line in your terminal, and replace it with your email
----
-
-```
-ssh-keygen -t ed25519 -C "your_email@example.com"
-```
-
-Alternativelly, if this doesn't work. You can try this (replace your email):
----
-
-```
-ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
-```
-
-> IMPOTANTE:
-> When you are requeste to name the file, just press `ENTER` without changing anything.
-> When you are requested a password, **create A GOOD one**, since this is controling access between your computer and GitHub in both ways.
->
-> For more info: 
-> See this [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-
-Last, but not least, **add** the SSH key to GitHub using this [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).  Be carreful to only share your **PUBLIC key**, it will be a file named either id_ed25529.pub or id_rsa.pub.
-
-
-*While using Git we advise **not** to use text usual formating, but instead use MarkDown (MD). MD is a lightweighted markup language to create formatted text using plein text. Meaning, text caracteres in specific positions work as codes to formatting bold, itallic, titles, subtitles, etc...
-
-If you never used MD before we suggest you to get [MarkText](https://github.com/marktext/marktext#download-and-installation) editor to this course. This editor will try to help you giving short-cuts for this code-caracters.
-
-Another option is is [VScode](https://code.visualstudio.com/Download), you can use as text editor and also as your terminal , and have it all integrated.
-
-
-### Git editor configuration (Optional, but advised)
+### Git editor configuration (Optional)
 
 Another thing we can edit in the configuration file is the editor. An editor is the program we want Git to use when we have to add a message or solve conflicts. The automatic editor is **VI** ([how to use VI edito](https://www.cs.colostate.edu/helpdocs/vi.html)). If you decide to choose a different editor, see bellow:
 
@@ -234,6 +171,42 @@ git config --global core.editor "'C:/Program Files (x86)/sublime text 3/subl.exe
 ```
 git config --global core.editor "'C:/Program Files (x86)/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
 ```
+
+C) TO BE DONE IN CLASS (with the teacher) 
+
+c.1) Generate a SSH key to stay safe in the command line
+
+- Copy past the command bellow in your terminal, replacing with your email
+---
+
+```
+ssh-keygen -t ed25519 -C "your_email@example.com" -f ~/.ssh/id_ed25519_git
+```
+
+- Alternativelly, if this doesn't work. You can try this (replace your email):
+---
+
+```
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"  -f ~/.ssh/id_rsa_git
+```
+
+> IMPOTANTE:
+> When you are requeste to name the file, you have two optiions. (1) just press `ENTER` without changing anything. (2) Use the entire path so the file is in the correct place.
+> When you are requested a password, **create A STRONG one**, but something you can still remember. This is controling access between your computer and external source (GitHUb).
+>
+> For more info see this [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
+
+
+c.2) Add the public SSH key to GitHub
+
+Using this [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) **add** the SSH key to GitHub. Be carreful to only share your **PUBLIC key** (**id_ed25529.pub** or **id_rsa.pub**).
+
+
+*While using Git we advise **not** to use text usual formating, but instead use MarkDown (MD). MD is a lightweighted markup language to create formatted text using plein text. Meaning, text caracteres in specific positions work as codes to formatting bold, itallic, titles, subtitles, etc...
+
+If you never used MD before we suggest you to get [MarkText](https://github.com/marktext/marktext#download-and-installation) editor to this course. This editor will try to help you giving short-cuts for this code-caracters.
+
+Another option is is [VScode](https://code.visualstudio.com/Download), you can use as text editor and also as your terminal , and have it all integrated.
 
 ### Suggested tool for visualization of Git version control Tree (all operating systems)
 
