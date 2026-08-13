@@ -9,9 +9,17 @@ authors:
   family-names: Botzki
   affiliation: VIB
   orcid: 0000-0001-6691-4233
+- given-names: James 
+  family-names: Collier
+  affiliation: VIB
+  orcid: 0000-0002-0020-421X
+  - given-names: Tuur 
+  family-names: Muyldermans
+  affiliation: VIB
+  orcid: 0000-0002-3926-7293
 contact:
-- given-names: Alexander
-  family-names: Botzki
+- given-names: Bruna
+  family-names: Piereck Moura
   affiliation: VIB
   orcid: 0000-0001-6691-4233
 title: "Versioning code and documentation with Git & GitHub"

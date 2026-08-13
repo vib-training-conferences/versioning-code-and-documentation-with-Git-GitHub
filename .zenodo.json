@@ -29,6 +29,18 @@
       "affiliation": "VIB",
       "orcid": "0000-0001-6691-4233",
       "type": "contactperson"
+    },
+     {
+      "name": "James Collier",
+      "affiliation": "VIB",
+      "orcid": "0000-0002-0020-421X",
+      "type": "relatedperson"
+    },
+    {
+      "name": "Tuur Muyldermans",
+      "affiliation": "VIB",
+      "orcid": "0000-0002-3926-7293",
+      "type": "relatedperson"
     }
   ],
   "communities": [
