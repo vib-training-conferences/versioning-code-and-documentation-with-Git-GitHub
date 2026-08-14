@@ -156,7 +156,7 @@ Lesson overview
 > |8         |[Branches](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/tutorials/08_branches.md#1) | To work in collaboration or experiment with new code or documentation desing you can creat parallel developing areas. Learn more about the application of Branchs, it will add more flexibility and better organization.|
 >|9           |[Forks](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/tutorials/09_forks.md#1)|You find a nice repo that you want to work on a new idea, or you want your collaborators to work separatelly before their changed is reviewd and approved for merging. Here it is an strategy for you.|
 >| 10         | [Aliases](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/tutorials/10_Git_aliases.md#1) | Create commands shortcut for your favorite commands. |
->| 11         |[GitHub & RStudio](https://github.com/vib-tcp/introduction-github/refs/heads/master/docs/tutorials/11_github_rstudio.md) | <brA big developer of R ? <br> Integrate Git, GitHub and RStudio, use buttons avoiding extra command line.|
+>| 11         |[GitHub & RStudio](https://github.com/vib-tcp/introduction-github/refs/heads/master/docs/tutorials/11_github_rstudio.md) | <br>A big developer of R ? <br> Integrate Git, GitHub and RStudio, use buttons avoiding extra command line.|
 
 # Workshop and Material organization
 
