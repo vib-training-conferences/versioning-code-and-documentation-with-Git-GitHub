@@ -134,8 +134,44 @@ While using Git we advise using MarkDown (MD) or plain text.
 Possible editors
 
 - Preferable option is [VScode](https://code.visualstudio.com/Download), to have the text editor and terminal integrated. Same as the trainer
-- If you never used MD before we suggest you to get [MarkText](https://github.com/marktext/marktext#download-and-installation)
 - Other option: Nano, Emacs, etc
+
+
+### Suggested tool for visualization of Git version control Tree (all operating systems)
+
+[**Ungit**](https://github.com/FredrikNoren/ungit) is a tool that is being sugested for didatic pourpuses mainly, but can useful in some situations. If you can not have it installed, NO WORRIES! You can follow in the trainers computer.
+
+Check the summary bellow to install Ungit:
+*Is easier then it might seam.*
+
+1. You need to install the software [Node JS](https://nodejs.org/en/download/prebuilt-installer).
+    
+    Choose the version 18.20.4 so it works.
+
+2. Enter the terminal
+> P.S.: In windowns you must find the ***CMD** terminal, trying to install with GitBash might not work.
+
+3. Copy past the following line in the terminal and press “enter”
+
+```
+npm install -g ungit
+```
+
+**This should be enough to install it.**
+
+4.  To initialize Ungit, type in the terminal the name of the software, as below
+    > P.S.: For windows you can you CMD or GitBash to initialize the tool.
+
+```
+Ungit
+``` 
+
+    It will open as a webpage, but actually it is a “***magic window***” for your computer content.
+
+> ***P.S.: Ungit is not an essential tool, is just for visualization, if you cannot install it DOESN’T affect the activities or learning process and can be easily followed by the trainer example!***
+
+
+## TODO during the course with the Trainer support
 
 ### Git editor configuration (Optional)
 
@@ -172,9 +208,9 @@ git config --global core.editor "'C:/Program Files (x86)/sublime text 3/subl.exe
 git config --global core.editor "'C:/Program Files (x86)/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
 ```
 
-C) TO BE DONE IN CLASS (with the teacher) 
+## SSH key
 
-c.1) Generate a SSH key to stay safe in the command line
+1) Generate a SSH key to stay safe in the command line
 
 - Copy past the command bellow in your terminal, replacing with your email
 ---
@@ -197,49 +233,10 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"  -f ~/.ssh/id_rsa_git
 > For more info see this [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
 
 
-c.2) Add the public SSH key to GitHub
+2) Add the public SSH key to GitHub
 
 Using this [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) **add** the SSH key to GitHub. Be carreful to only share your **PUBLIC key** (**id_ed25529.pub** or **id_rsa.pub**).
 
-
-*While using Git we advise **not** to use text usual formating, but instead use MarkDown (MD). MD is a lightweighted markup language to create formatted text using plein text. Meaning, text caracteres in specific positions work as codes to formatting bold, itallic, titles, subtitles, etc...
-
-If you never used MD before we suggest you to get [MarkText](https://github.com/marktext/marktext#download-and-installation) editor to this course. This editor will try to help you giving short-cuts for this code-caracters.
-
-Another option is is [VScode](https://code.visualstudio.com/Download), you can use as text editor and also as your terminal , and have it all integrated.
-
-### Suggested tool for visualization of Git version control Tree (all operating systems)
-
-[**Ungit**](https://github.com/FredrikNoren/ungit) is a tool that is being sugested for didatic pourpuses mainly, but can useful in some situations. If you can not have it installed, NO WORRIES! You can follow in the trainers computer.
-
-Check the summary bellow to install Ungit:
-*Is easier then it might seam.*
-
-1. You need to install the software [Node JS](https://nodejs.org/en/download/prebuilt-installer).
-    
-    Choose the version 18.20.4 so it works.
-
-2. Enter the terminal
-> P.S.: In windowns you must find the ***CMD** terminal, trying to install with GitBash might not work.
-
-3. Copy past the following line in the terminal and press “enter”
-
-```
-npm install -g ungit
-```
-
-**This should be enough to install it.**
-
-4.  To initialize Ungit, type in the terminal the name of the software, as below
-    > P.S.: For windows you can you CMD or GitBash to initialize the tool.
-
-```
-Ungit
-``` 
-
-    It will open as a webpage, but actually it is a “***magic window***” for your computer content.
-
-> ***P.S.: Ungit is not an essential tool, is just for visualization, if you cannot install it DOESN’T affect the activities or learning process and can be easily followed by the trainer example!***
 
 
 ---
