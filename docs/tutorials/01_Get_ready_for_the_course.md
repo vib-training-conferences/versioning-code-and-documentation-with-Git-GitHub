@@ -137,7 +137,11 @@ Possible editors
 - Other option: Nano, Emacs, etc
 
 
-### Suggested tool for visualization of Git version control Tree (all operating systems)
+### Suggested tool for visualization of Git version control Tree 
+
+(all operating systems)
+
+> ***P.S.: Ungit is not an essential tool, is just for visualization, if you cannot install it DOESN’T affect the activities or learning process and can be easily followed by the trainer example!***
 
 [**Ungit**](https://github.com/FredrikNoren/ungit) is a tool that is being sugested for didatic pourpuses mainly, but can useful in some situations. If you can not have it installed, NO WORRIES! You can follow in the trainers computer.
 
@@ -168,10 +172,10 @@ Ungit
 
     It will open as a webpage, but actually it is a “***magic window***” for your computer content.
 
-> ***P.S.: Ungit is not an essential tool, is just for visualization, if you cannot install it DOESN’T affect the activities or learning process and can be easily followed by the trainer example!***
-
 
 ## TODO during the course with the Trainer support
+
+This session is not meant for you to do alone, but work as future reference if you need to re-do the procedures after the class.
 
 ### Git editor configuration (Optional)
 
