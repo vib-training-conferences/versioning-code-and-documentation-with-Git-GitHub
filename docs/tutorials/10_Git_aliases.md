@@ -26,7 +26,7 @@ You can access the next chapter
 
 [<img src="../images/PNGs/button_nextChapter.png" alt="next chapter" width="200">](https://github.com/vibbits/introduction-github/blob/master/tutorials/11_github_rstudio/tutorial.md)!
 
-### All chapters
+## All chapters
 
 | Chapter | Title | Summary | 
 | :---    |:---   |:---     |

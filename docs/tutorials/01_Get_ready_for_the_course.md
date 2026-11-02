@@ -249,7 +249,7 @@ You can access the next chapter
 
 [<img src="../images/PNGs/button_nextChapter.png" alt="next chapter" width="200">](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/2_introduction/tutorial.md#1)
 
-### All chapters
+## All chapters
 
 | Chapter | Title | Summary | 
 | :---    |:---   |:---     |

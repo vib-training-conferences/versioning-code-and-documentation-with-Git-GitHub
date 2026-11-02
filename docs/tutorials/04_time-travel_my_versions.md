@@ -257,7 +257,7 @@ You can access the next chapter
 
 [<img src="../images/PNGs/button_nextChapter.png" alt="next chapter" width="200">][next session](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/5_Connecting_2_GitHub/tutorial.md#1)!
 
-### All chapters
+## All chapters
 
 | Chapter | Title | Summary | 
 | :---    |:---   |:---     |

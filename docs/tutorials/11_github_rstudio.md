@@ -166,7 +166,7 @@ If the commit has to appear on GitHub we need one more step. Click on *Push* and
 
 ---
  
-### All chapters
+## All chapters
 
 | Chapter | Title | Summary | 
 | :---    |:---   |:---     |
