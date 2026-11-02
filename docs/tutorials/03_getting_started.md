@@ -257,4 +257,26 @@ Well, I don't have a good answer for that, other than: AVOID CREATING TRUCTURES 
 
 ---
 
-Let's go to the [next session](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/4_time-travel_my_versions/tutorial.md)!
+
+You can access the next chapter
+
+[<img src="../images/PNGs/button_nextChapter.png" alt="next chapter" width="200">](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/introduction-github/master/tutorials/4_time-travel_my_versions/tutorial.md)!
+
+### All chapters
+
+| Chapter | Title | Summary | 
+| :---    |:---   |:---     |
+|1        | [Get Ready for the course](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/tutorials/01_Get_ready_for_the_course.md#1) | <br>In this chapter you will find the step-by-step of what you need to get ready for this course. |
+|2        | [Introduction](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/tutorials/02_introduction.md#1) | Find out the differences between Git and GitHub and Why is Git in several cases the best approach for versioning? |
+|3        |[Get started with Git](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/tutorials/03_getting_started.md#1)  | Understand how Git is structured, make your first commit, learn the basic routine to get one version saved and managed with Git.|
+|4        |[A travel in Time: Check your versions](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/tutorials/04_time-travel_my_versions.md#1) |Moving towards becoming more confident and using some of the power of Git. Learn to compare versions.|
+|5        |[Connect to GitHub](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/tutorials/05_Connecting_2_GitHub.md#1)|Connect your local repository to GitHub, make a remote backup of all your versions.|
+
+| Chapter | Title | Summary | 
+| :---    |:---   |:---     |
+|6        |[README.md & .gitignore - Important files](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/tutorials/06_gitignore%26README.md#1)| Learn about README files and .gitignore files. These are essential for a good project development.|
+|7        |[Collaborating](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/tutorials/07_collaborating_GitHub.md#1) | In this chapter we teach you how to start the collaboration, best practices when working in a team and last but not least ... HOW TO SOLVE CONFLICTS! |
+|8         |[Branches](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/tutorials/08_branches.md#1) | To work in collaboration or experiment with new code or documentation desing you can creat parallel developing areas. Learn more about the application of Branchs, it will add more flexibility and better organization.|
+|9           |[Forks](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/tutorials/09_forks.md#1)|You find a nice repo that you want to work on a new idea, or you want your collaborators to work separatelly before their changed is reviewd and approved for merging. Here it is an strategy for you.|
+| 10         | [Aliases](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/tutorials/10_Git_aliases.md#1) | Create commands shortcut for your favorite commands. |
+| 11         |[GitHub & RStudio](https://github.com/vib-tcp/introduction-github/refs/heads/master/docs/tutorials/11_github_rstudio.md) | <br>A big developer of R ? <br> Integrate Git, GitHub and RStudio, use buttons avoiding extra command line.|
