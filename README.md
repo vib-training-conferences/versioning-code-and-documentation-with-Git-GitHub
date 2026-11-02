@@ -291,7 +291,7 @@ __
 
 # About us
 
-*About ELIXIR Training Platform*
+**About ELIXIR Training Platform**
 
 The ELIXIR Training Platform was established to develop a training community that spans all ELIXIR member states (see the list of Training Coordinators). It aims to strengthen national training programmes, grow bioinformatics training capacity and competence across Europe, and empower researchers to use ELIXIR's services and tools.
 
@@ -299,7 +299,7 @@ One service offered by the Training Platform is TeSS, the training registry for 
 
 The Training eSupport System was developed to help trainees, trainers and their institutions to have a one-stop shop where they can share and find information about training and events, including training material. This way we can create a catalogue that can be shared within the community. How it works is what we are going to find out in this course.
 
-*About VIB and VIB Technologies*
+**About VIB and VIB Technologies**
 
 VIB is an entrepreneurial non-profit research institute, with a clear focus on groundbreaking strategic basic research in life sciences and operates in close partnership with the five universities in Flanders – Ghent University, KU Leuven, University of Antwerp, Vrije Universiteit Brussel and Hasselt University.
 
@@ -309,13 +309,17 @@ The goal of VIB Technology Training is to up-skill life scientists to excel in t
 
 --------------------------------------------
 
-*Editorial team for this course*
+**Editorial team for this course**
 
 Authors: @[orcid(Alexander Botzki)](https://orcid.org/0000-0001-6691-4233), @[orcid(Bruna Piereck)](https://orcid.org/0000-0001-5958-0669)
 
 Technical Editors: Alexander Botzki
 
 License: [![CC BY SA](docs/images.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+# Next chapter
+
+[![go to installation](docs/images/PNGs/button_installation.png)](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-github/refs/heads/master/docs/tutorials/01_Get_ready_for_the_course.md#1)
 
 
 ```json   @JSONLD
