@@ -133,6 +133,7 @@ Schedule day 2:
 > 
 > 1. [Exercises](./exercises/)
 > 2. [Slides](./docs/presentations/)  
+> 3. [Google Slides](https://drive.google.com/drive/folders/1BABinJr0HQCwzVeeSRJC9AoppbAZfM43?usp=sharing)
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
