@@ -1,0 +1,33 @@
+# Basics of MarkDown
+
+<img src="./images/PNGs/markdown_cheatsheet_slide_print.png" width="900">
+
+
+Markdown code example
+-------------------------
+
+'''
+# Title
+
+## Subtitle
+
+`one line code`
+
+### Sub-subtitle
+
+1. first topic
+
+2. second topic
+
+```
+Multi
+line
+code
+```
+
+- item in list
+
+- item in list
+
+
+'''
