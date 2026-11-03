@@ -1,13 +1,17 @@
-# Basics of MarkDown
+Basics of MarkDown
 
-<img src="./images/PNGs/markdown_cheatsheet_slide_print.png" width="900">
-
-
-Markdown code example
--------------------------
-
-'''
 # Title
+
+This example include all the basics, such as, making a word **bold** or *italic* in te midle of the text.
+You can also make it ***Bold_italic*** at the same time.
+
+You can add an image
+
+     <img src="path/to/image" width="100">
+
+You can hiperlink an image
+
+     [<img src="path/to/image" width="100">](link)
 
 ## Subtitle
 
@@ -19,15 +23,18 @@ Markdown code example
 
 2. second topic
 
+Make a bold header that is not part of the hierarchy
+-----------------------------------------------------
+
 ```
 Multi
 line
 code
 ```
+### second sub-subtitle
 
 - item in list
 
 - item in list
 
-
-'''
+- item in list
