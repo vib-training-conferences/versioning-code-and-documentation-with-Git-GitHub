@@ -1,0 +1,118 @@
+---
+title: "Kahoot quiz activity 2nd day about branches."
+lanuage: EN
+mainfont: "Liberation Mono"
+---
+
+> -- 
+>
+>This file contains all the questions used in the Kahoot quiz for the review moment planned for the start of the 2nd day of course.
+> The options highlighted in bold & italic represent the correct ones, for reference of trainers that want to reuse those.
+> The colors ponted at the end of each option, represent the colors in the Kahoot option, originally used just to confirm that all "A" options had the same color for example. Before it was creating confusing that "A", or any other, was changing position and color.
+>
+> Link for Kahoot quiz: https://create.kahoot.it/details/part2-git-github/29b057f1-9326-4a4b-b5f6-2da8dda5bdb2?drawer=
+>
+> --
+
+# Quiz
+
+## 1.  I can't see the file changes I heve commited yesterday. What could be the reason?
+
+a. I lost what I just did <span style="color:red"> (red)</span>
+    
+b. I can only be found in the branch where I edited <span style="color:blue"> (blue)</span>
+    
+c.Git reloads my files based in the branch I am in <span style="color:orange"> (yellow)</span>
+    
+***d. blue and yellow are correct***  <span style="color:green"> (green)</span>
+
+
+## 2. How many copies of each file I have in the Developing area?
+
+***a. Only one*** <span style="color:red"> (red)</span>
+    
+b. One for each branch <span style="color:blue"> (blue)</span>
+    
+c. One for each collaborator <span style="color:orange"> (yellow)</span>
+    
+d. As many as versions I have <span style="color:green"> (green)</span>
+
+## 3. Where are the other versions?
+
+a. In another folder <span style="color:red"> (red)</span>
+    
+b. Only in GitHub <span style="color:blue"> (blue)</span>
+    
+c. ***git is managing them for me*** <span style="color:orange"> (yellow)</span>
+    
+d. I don't know  <span style="color:green"> (green)</span>
+
+## 4. How many copies of each file I can find on GitHub?
+
+a. Only one <span style="color:red"> (red)</span>
+    
+b. One for each branch <span style="color:blue"> (blue)</span>
+    
+c. One for each collaborator <span style="color:orange"> (yellow)</span>
+    
+d. ***As many as versions I have*** <span style="color:green"> (green)</span>
+
+
+## 5. Where can I create a branch?
+
+a. Only in projects I own <span style="color:red"> (red)</span>
+    
+***b. Projects I own or collaborate***  <span style="color:blue"> (blue)</span>
+    
+***c. Any repository***  <span style="color:orange"> (yellow)</span>
+    
+***d. Blue and Yellow are correct***  <span style="color:green"> (green)</span>
+
+
+> *<span style="color:olive">Observation about this exercise</span>*
+>
+> <span style="color:olive"> In this exercise I explain that they can clone repositories locally, edit and even create branches. Hoever, it doesn't mean this changes can be incorporated back in the original repository. If they don't have the necessary writing permission this will remain local and available to them./span>
+
+## 6. Can you see all branches you collaborators create?
+
+***a. Only the ones pushed to GitHub*** <span style="color:red"> (red)</span>
+    
+b. Yes, I can see them all  <span style="color:blue"> (blue)</span>
+    
+c. I can't see unless invited to collaborate  <span style="color:orange"> (yellow)</span>
+    
+d. I can always see them on GitHub  <span style="color:green"> (green)</span>
+
+## 7. Can you see the history of changes your collaborator made?
+
+a. No, I can't. It is only theirs <span style="color:red"> (red)</span>
+    
+b. I can see only on GitHub  <span style="color:blue"> (blue)</span>
+    
+c. I can see with only if they add the correct permission <span style="color:orange"> (yellow)</span>
+    
+***d. I have full access locally and remotelly to those that were pushed*** <span style="color:green"> (green)</span>
+
+## 8. As a collaborator I ...
+
+a. Co-own the repository <span style="color:red"> (red)</span>
+    
+***b. I can edit freely, but I'm not owner*** <span style="color:blue"> (blue)</span>
+    
+c. I can edit upon autorization, I'm not owner <span style="color:orange"> (yellow)</span>
+    
+d. I can edit with restricitons, but I co-own it  <span style="color:green"> (green)</span>
+
+-------
+
+# Template for questions
+
+## 1. question
+
+a. ---- <span style="color:red"> (red)</span>
+    
+b. ----  <span style="color:blue"> (blue)</span>
+    
+c. ----  <span style="color:orange"> (yellow)</span>
+    
+d. ----  <span style="color:green"> (green)</span>
