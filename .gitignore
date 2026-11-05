@@ -1,0 +1,13 @@
+# previous slides presentations
+# These are available in previous course instances that can be found in the releases.
+archived_Versioning_with_Git_n_GitHub_day01.pptx
+archived_Versioning_with_Git_n_GitHub_day02.pptx
+archived_Versioning_with_Git_n_GitHub_day01_20260427.pptx
+archived_Versioning_with_Git_n_GitHub_day02_20260428.pptx
+*.pdf
+
+# Ignore files that ar still in editing
+
+
+# claude debug interaction
+ssh_permission_denied_troubleshooting.md
